@@ -1,4 +1,4 @@
-FROM openjdk:17-jre-slim
+FROM amazoncorretto:17.0.8-alpine3.18
     
 EXPOSE 8080
  
